@@ -1,0 +1,20 @@
+.li-task {
+    margin-top: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.done {
+    color: gray;
+    text-decoration: line-through;
+}
+
+undone {
+    color: black;
+    text-decoration: none;
+}
+
+.text-task {
+    margin-bottom: 10px;
+}
